@@ -21,3 +21,11 @@ This bindings evaluates the expression and uses the result to set the element's 
 <div [ngClass]="map"></div>
 
 This binding sets class membershipof multiple classes using the data in a map object
+
+
+---
+# Angular 6 animation Tutorial
+1st Gain access to the animation library,
+```
+> npm install @angular/animation@latest --save
+```
